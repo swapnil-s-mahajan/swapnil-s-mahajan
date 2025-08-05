@@ -3,8 +3,8 @@
 
 🚀 I love building scalable web applications, solving real-world problems, and constantly exploring new technologies. With a strong foundation in Data Structures & Algorithms, I'm enthusiastic about contributing to open-source, developing full-stack apps, and diving into Machine Learning and DevOps.
 
-🌐Email Me For Collaboration/Project or Anything Else. 😊😊
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilmahajan1712@gmail.com) 
+🌐Email Me 👉 ✉️ **swapnilmahajan1712@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 
 ---
 
