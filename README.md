@@ -1,4 +1,3 @@
-#  
 ### 💫 Hi 👋 I’m Swapnil Mahajan — a passionate Full Stack Developer & ML Enthusiast
 
 🚀 I love building scalable web applications, solving real-world problems, and constantly exploring new technologies. With a strong foundation in Data Structures & Algorithms, I'm enthusiastic about contributing to open-source, developing full-stack apps, and diving into Machine Learning and DevOps.
