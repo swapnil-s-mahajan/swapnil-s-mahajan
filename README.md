@@ -1,21 +1,15 @@
 #  
-### 💫 Hi I’m Swapnil Mahajan — a passionate Full Stack Developer & ML Enthusiast
+### 💫 Hi 👋 I’m Swapnil Mahajan — a passionate Full Stack Developer & ML Enthusiast
 
 🚀 I love building scalable web applications, solving real-world problems, and constantly exploring new technologies. With a strong foundation in Data Structures & Algorithms, I'm enthusiastic about contributing to open-source, developing full-stack apps, and diving into Machine Learning and DevOps.
 
-
----
-
-## 🌐 Connect with Me:
+🌐Email Me For Collaboration/Project or Anything Else. 😊😊
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilmahajan1712@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnil-s-mahajan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnilsmahajan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/swapnil-s-mahajan)
 
 ---
 
-### 🧠 Languages & Core
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 🧠 Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,7 +47,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-
+---
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=swapnil-s-mahajan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
